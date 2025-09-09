@@ -265,23 +265,3 @@ This project demonstrates modern Flutter development with AI integration. Perfec
 ## ⚠️ Medical Disclaimer
 
 This chatbot is for **educational and informational purposes only**. It is not a substitute for professional medical advice, diagnosis, or treatment. Always seek the advice of your physician or other qualified healthcare provider with any questions you may have regarding a medical condition.
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## 🆘 Support
-
-If you have any questions or need help, please:
-
-1. Check the existing issues
-2. Create a new issue with details
-3. Contact Sergie Code through social media
-
----
-
-**Made with ❤️ by Sergie Code**
