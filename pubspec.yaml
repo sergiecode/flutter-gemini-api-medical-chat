@@ -1,0 +1,35 @@
+name: flutter_medical_chatbot
+description: "A Flutter medical chatbot application with multimodal support using Gemini AI"
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  
+  # AI Toolkit for chat UI (using reference version)
+  flutter_ai_toolkit: ^0.6.8
+  
+  # Google Generative AI for direct Gemini integration
+  google_generative_ai: ^0.4.6
+  
+  # Environment variables for API key loading
+  flutter_dotenv: ^5.1.0
+  
+  # Cupertino icons for iOS-style icons
+  cupertino_icons: ^1.0.8
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+  
+  assets:
+    - .env
